@@ -1,0 +1,32 @@
+{
+  "name": "nft-marketplace",
+  "author": "Abraham Yusuf",
+  "version": "1.0.0",
+  "description": "NFT Marketplace Multichain",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraham-yusuf/NFT-Marketplace.git"
+  },
+  "keywords": ["NextJS", "NFT Marketplace Multichain"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraham-yusuf/NFT-Marketplace/issues"
+  },
+  "homepage": "https://github.com/abraham-yusuf/NFT-Marketplace#readme"
+}
